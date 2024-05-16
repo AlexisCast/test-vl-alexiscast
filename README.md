@@ -7,6 +7,8 @@
 First, run the development server:
 
 ```bash
+#open terminal and navigate: cd test-vl-alexiscast
+# execute the following
 npm i
 
 npm run dev
