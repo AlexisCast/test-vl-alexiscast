@@ -1,3 +1,16 @@
+.Item{
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+
 .Item a {
 	color: #000;
+}
+.Item a:hover {
+	color: #6c5f50;
+}
+
+.Item:hover {
+	color: #6c5f50;
 }
