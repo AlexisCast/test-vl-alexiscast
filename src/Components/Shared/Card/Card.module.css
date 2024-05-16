@@ -1,0 +1,19 @@
+/* Card Styles */
+.Card {
+	display: flex;
+	flex-direction: column;
+	width: 320px;
+	height: 640px;
+	background-color: bisque;
+	border: 1px solid black;
+}
+
+/* CardContainerStyles */
+.CardContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+	padding: 1em;
+	text-align: justify;
+}

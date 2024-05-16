@@ -1,0 +1,15 @@
+.DesktopNavBar {
+	display: flex;
+	justify-content: space-between;
+  align-items: center;
+  padding: 0 1.5em;
+  background-color: #373131;
+}
+
+.NavItems{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  height: 3.5em;
+}

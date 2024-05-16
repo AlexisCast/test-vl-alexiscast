@@ -1,0 +1,52 @@
+/* .ProductCard {
+	display: flex;
+	flex-direction: column;
+	width: 320px;
+	height: 640px;
+	background-color: bisque;
+	border: 1px solid black;
+} */
+.Card a{
+  color: #000;;
+}
+
+.ImageContainer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 290px;
+	max-height: 290px;
+	background-color: rgb(237, 237, 237);
+}
+
+.Image {
+	width: 317px;
+	height: 290px;
+	object-fit: scale-down;
+}
+
+/* .ProductContent {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+	padding: 1em;
+	text-align: justify;
+} */
+
+.Title {
+	font-size: 1em;
+	margin: 0;
+	font-weight: bold;
+	line-height: normal;
+}
+
+.Button {
+	width: 100%;
+	margin-top: 1em;
+}
+
+.Details{
+  display: flex;
+  flex-direction: column;
+}
